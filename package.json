@@ -1,0 +1,20 @@
+{
+  "name": "validattoy",
+  "version": "1.0.3",
+  "description": "关于数据校验的包",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack-dev-server",
+    "build": "webpack"
+  },
+  "author": "cly",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "terser-webpack-plugin": "^5.2.4",
+    "webpack": "^5.53.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
