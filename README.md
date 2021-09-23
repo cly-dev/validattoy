@@ -205,3 +205,4 @@ if(v.valid()){
 ​	(1)、replaceMessage是静态方法
 
 ​	(2)、必须在Validators实例化前调用
+### 在使用过程中发现bug请联系QQ:2663118046进行修改哦
